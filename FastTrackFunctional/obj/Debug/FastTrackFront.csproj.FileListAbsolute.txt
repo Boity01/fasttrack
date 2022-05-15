@@ -1,0 +1,240 @@
+D:\FastTrackFront\bin\FastTrackFront.dll.config
+D:\FastTrackFront\bin\FastTrackFront.dll
+D:\FastTrackFront\bin\FastTrackFront.pdb
+D:\FastTrackFront\bin\roslyn\csc.exe
+D:\FastTrackFront\bin\roslyn\csc.exe.config
+D:\FastTrackFront\bin\roslyn\csc.rsp
+D:\FastTrackFront\bin\roslyn\csi.exe
+D:\FastTrackFront\bin\roslyn\csi.exe.config
+D:\FastTrackFront\bin\roslyn\csi.rsp
+D:\FastTrackFront\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\FastTrackFront\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\FastTrackFront\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\FastTrackFront\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\FastTrackFront\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\FastTrackFront\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\FastTrackFront\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\FastTrackFront\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\FastTrackFront\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\FastTrackFront\bin\roslyn\Microsoft.Managed.Core.targets
+D:\FastTrackFront\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\FastTrackFront\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\FastTrackFront\bin\roslyn\System.AppContext.dll
+D:\FastTrackFront\bin\roslyn\System.Collections.Immutable.dll
+D:\FastTrackFront\bin\roslyn\System.Console.dll
+D:\FastTrackFront\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\FastTrackFront\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\FastTrackFront\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\FastTrackFront\bin\roslyn\System.Globalization.Calendars.dll
+D:\FastTrackFront\bin\roslyn\System.IO.Compression.dll
+D:\FastTrackFront\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\FastTrackFront\bin\roslyn\System.IO.FileSystem.dll
+D:\FastTrackFront\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\FastTrackFront\bin\roslyn\System.Net.Http.dll
+D:\FastTrackFront\bin\roslyn\System.Net.Sockets.dll
+D:\FastTrackFront\bin\roslyn\System.Reflection.Metadata.dll
+D:\FastTrackFront\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\FastTrackFront\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\FastTrackFront\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\FastTrackFront\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\FastTrackFront\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\FastTrackFront\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\FastTrackFront\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\FastTrackFront\bin\roslyn\System.ValueTuple.dll
+D:\FastTrackFront\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\FastTrackFront\bin\roslyn\System.Xml.XmlDocument.dll
+D:\FastTrackFront\bin\roslyn\System.Xml.XPath.dll
+D:\FastTrackFront\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\FastTrackFront\bin\roslyn\vbc.exe
+D:\FastTrackFront\bin\roslyn\vbc.exe.config
+D:\FastTrackFront\bin\roslyn\vbc.rsp
+D:\FastTrackFront\bin\roslyn\VBCSCompiler.exe
+D:\FastTrackFront\bin\roslyn\VBCSCompiler.exe.config
+D:\FastTrackFront\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\FastTrackFront\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\FastTrackFront\obj\Debug\FastTrackFront.csproj.AssemblyReference.cache
+D:\FastTrackFront\obj\Debug\FastTrackFront.csproj.CoreCompileInputs.cache
+D:\FastTrackFront\obj\Debug\FastTrackFront.csproj.CopyComplete
+D:\FastTrackFront\obj\Debug\FastTrackFront.dll
+D:\FastTrackFront\obj\Debug\FastTrackFront.pdb
+D:\OLDER\FastTrackFront\bin\FastTrackFront.dll.config
+D:\OLDER\FastTrackFront\bin\FastTrackFront.dll
+D:\OLDER\FastTrackFront\bin\FastTrackFront.pdb
+D:\OLDER\FastTrackFront\bin\roslyn\csc.exe
+D:\OLDER\FastTrackFront\bin\roslyn\csc.exe.config
+D:\OLDER\FastTrackFront\bin\roslyn\csc.rsp
+D:\OLDER\FastTrackFront\bin\roslyn\csi.exe
+D:\OLDER\FastTrackFront\bin\roslyn\csi.exe.config
+D:\OLDER\FastTrackFront\bin\roslyn\csi.rsp
+D:\OLDER\FastTrackFront\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\OLDER\FastTrackFront\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\OLDER\FastTrackFront\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\OLDER\FastTrackFront\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\OLDER\FastTrackFront\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\OLDER\FastTrackFront\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\OLDER\FastTrackFront\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\OLDER\FastTrackFront\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\OLDER\FastTrackFront\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\OLDER\FastTrackFront\bin\roslyn\Microsoft.Managed.Core.targets
+D:\OLDER\FastTrackFront\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\OLDER\FastTrackFront\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\OLDER\FastTrackFront\bin\roslyn\System.AppContext.dll
+D:\OLDER\FastTrackFront\bin\roslyn\System.Collections.Immutable.dll
+D:\OLDER\FastTrackFront\bin\roslyn\System.Console.dll
+D:\OLDER\FastTrackFront\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\OLDER\FastTrackFront\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\OLDER\FastTrackFront\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\OLDER\FastTrackFront\bin\roslyn\System.Globalization.Calendars.dll
+D:\OLDER\FastTrackFront\bin\roslyn\System.IO.Compression.dll
+D:\OLDER\FastTrackFront\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\OLDER\FastTrackFront\bin\roslyn\System.IO.FileSystem.dll
+D:\OLDER\FastTrackFront\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\OLDER\FastTrackFront\bin\roslyn\System.Net.Http.dll
+D:\OLDER\FastTrackFront\bin\roslyn\System.Net.Sockets.dll
+D:\OLDER\FastTrackFront\bin\roslyn\System.Reflection.Metadata.dll
+D:\OLDER\FastTrackFront\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\OLDER\FastTrackFront\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\OLDER\FastTrackFront\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\OLDER\FastTrackFront\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\OLDER\FastTrackFront\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\OLDER\FastTrackFront\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\OLDER\FastTrackFront\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\OLDER\FastTrackFront\bin\roslyn\System.ValueTuple.dll
+D:\OLDER\FastTrackFront\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\OLDER\FastTrackFront\bin\roslyn\System.Xml.XmlDocument.dll
+D:\OLDER\FastTrackFront\bin\roslyn\System.Xml.XPath.dll
+D:\OLDER\FastTrackFront\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\OLDER\FastTrackFront\bin\roslyn\vbc.exe
+D:\OLDER\FastTrackFront\bin\roslyn\vbc.exe.config
+D:\OLDER\FastTrackFront\bin\roslyn\vbc.rsp
+D:\OLDER\FastTrackFront\bin\roslyn\VBCSCompiler.exe
+D:\OLDER\FastTrackFront\bin\roslyn\VBCSCompiler.exe.config
+D:\OLDER\FastTrackFront\bin\EntityFramework.dll
+D:\OLDER\FastTrackFront\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\OLDER\FastTrackFront\bin\EntityFramework.xml
+D:\OLDER\FastTrackFront\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\OLDER\FastTrackFront\obj\Debug\FastTrackFront.csproj.AssemblyReference.cache
+D:\OLDER\FastTrackFront\obj\Debug\FastTrackFront.csproj.CoreCompileInputs.cache
+D:\OLDER\FastTrackFront\obj\Debug\FastTrackFront.csproj.CopyComplete
+D:\OLDER\FastTrackFront\obj\Debug\FastTrackFront.dll
+D:\OLDER\FastTrackFront\obj\Debug\FastTrackFront.pdb
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\FastTrackFront.dll.config
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\FastTrackFront.dll
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\FastTrackFront.pdb
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\csc.exe
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\csc.exe.config
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\csc.rsp
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\csi.exe
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\csi.exe.config
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\csi.rsp
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\System.AppContext.dll
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\System.Console.dll
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\System.Net.Http.dll
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\System.Net.Sockets.dll
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\vbc.exe
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\vbc.exe.config
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\vbc.rsp
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\EntityFramework.dll
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\EntityFramework.xml
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\obj\Debug\FastTrackFront.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\obj\Debug\FastTrackFront.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\obj\Debug\FastTrackFront.csproj.CopyComplete
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\obj\Debug\FastTrackFront.dll
+C:\Users\User\Downloads\FastTrackFront Functional\FastTrackFront\obj\Debug\FastTrackFront.pdb
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\obj\Debug\FastTrackFront.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\FastTrackFront.dll.config
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\FastTrackFront.dll
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\FastTrackFront.pdb
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\csc.exe
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\csi.exe
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\System.Net.Http.dll
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\System.Net.Sockets.dll
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\EntityFramework.xml
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\obj\Debug\FastTrackFront.csproj.CopyComplete
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\obj\Debug\FastTrackFront.dll
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\obj\Debug\FastTrackFront.pdb
+C:\Users\User\Desktop\219041903 BP RALETSEMO Tut9\FastTrackFunctional\obj\Debug\FastTrackFront.csproj.AssemblyReference.cache
